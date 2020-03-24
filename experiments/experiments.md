@@ -30,7 +30,7 @@ Dimming An LED Using A Potentiometer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 3 Dimming an LED using a potentiometer.jpg)
 
 (Insert a caption here)
 
@@ -47,7 +47,7 @@ Using The Accelerometer To Control Motor Speed
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 5 Using the accelerometer to control motor speed.jpg)
 
 (Insert a caption here)
 
@@ -64,7 +64,7 @@ Setting The Tone With A Piezo Buzzer
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 6 setting the tone with a piezo buzzer.jpg)
 
 (Insert a caption here)
 
@@ -81,7 +81,7 @@ Making A Game Using The Compass
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](Experiment 8 Making a game using the compass.jpg)
 
 (Insert a caption here)
 
