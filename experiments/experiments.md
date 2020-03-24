@@ -13,13 +13,13 @@ Using A Light Sensor And Analog Inputs
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](Experiment 2 Using a light sensor and analog inputs.jpg)
 
-(Insert a caption here)
+(Image of Experiment 2 where the phototransistor is used to detect the light value and display an image on the microbit)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was (the light variable was set to 200 however this ).
 
 This experiment could be the basis of a real world application such as (insert something here).
 
