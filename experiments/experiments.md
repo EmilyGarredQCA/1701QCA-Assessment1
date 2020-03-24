@@ -8,7 +8,7 @@
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Using A Light Sensor And Analog Inputs
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -25,7 +25,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Dimming An LED Using A Potentiometer
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -42,7 +42,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Using The Accelerometer To Control Motor Speed
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -59,7 +59,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Setting The Tone With A Piezo Buzzer
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -76,7 +76,7 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Making A Game Using The Compass
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
