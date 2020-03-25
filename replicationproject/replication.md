@@ -5,28 +5,28 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Plant Watering
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Earth Analyzer
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/gowthamkishoreindukuri/earth-analyzer-262acb?ref=search&ref_id=earth%20analyzer&offset=0
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to the plant watering project because it is also used to test the soil condition exept on a larger and more involved and detailed scale. By being able to test a larger area with the technology set on wheels for use on large farm land and then send different alerts directly to your phone about the moisture level and soil condition.
 
 ### Related project 2 ###
-(Insert name of project)
+Robotic Arm from Recycled Materials
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/circuito-io-team/robotic-arm-from-recycled-materials-7e318a?ref=search&ref_id=robotic%20arm%20from%20recycled%20materials&offset=0
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses a servo motor .
 
 ### Related project 3 ###
 (Insert name of project)
