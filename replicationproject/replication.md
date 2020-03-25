@@ -26,34 +26,34 @@ https://create.arduino.cc/projecthub/circuito-io-team/robotic-arm-from-recycled-
 
 ![Image](missingimage.png)
 
-This project is related to mine because it uses a servo motor .
+This project is related to mine because it uses a servo motor to make the robotic move. In the video displayed on the website it is shown making a cup of tea however with more refined controls and movements it could be used for a variety of things?????????????/.
 
 ### Related project 3 ###
-(Insert name of project)
+Arduino Marble Maze Labyrinth
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/AhmedAzouz/arduino-marble-maze-labyrinth-bd9ea6
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses servo motors to manipulate direction of the maze to different angles, it is controlled by a modulo joystick to move the ball aroung the maze.  
 
 ### Related project 4 ###
-(Insert name of project)
+Automatic Watering System for plants using Arduino
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=nUHizmtyt74
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it is very similar in terms of the automating plant watering project except it uses a pump rather than the servo motor to water the plant. This might need more power however it would be more efficient for watering lager plants rather than the small amount from the straw.
 
 ### Related project 5 ###
-(Insert name of project)
+Arduino Sunflower
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the servo motor along with two photoresistors to turn the sunflower towards the light. This is a fairly simple project but displays the use of the servo motors in a easy to understand way.
 
 ### Related project 6 ###
 (Insert name of project)
