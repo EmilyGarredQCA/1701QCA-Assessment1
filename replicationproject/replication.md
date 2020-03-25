@@ -42,7 +42,7 @@ Automatic Watering System for plants using Arduino
 
 https://www.youtube.com/watch?v=nUHizmtyt74
 
-![Image](AutoWater.jpg)
+![Image](AutomaticWater.jpg)
 
 This project is related to mine because it is very similar in terms of the automating plant watering project except it uses a pump rather than the servo motor to water the plant. This might need more power however it would be more efficient for watering lager plants rather than the small amount from the straw.
 
@@ -55,14 +55,6 @@ https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84
 
 This project is related to mine because it uses the servo motor along with two photoresistors to turn the sunflower towards the light. This is a fairly simple project but displays the use of the servo motors in a easy to understand way.
 
-### Related project 6 ###
-(Insert name of project)
-
-(Insert URL to project)
-
-![Image](missingimage.png)
-
-This project is related to mine because (insert reasons here).
 
 
 ## Reading reflections ##
