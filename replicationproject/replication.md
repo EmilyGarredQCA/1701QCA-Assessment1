@@ -15,7 +15,7 @@ Earth Analyzer
 
 https://create.arduino.cc/projecthub/gowthamkishoreindukuri/earth-analyzer-262acb?ref=search&ref_id=earth%20analyzer&offset=0
 
-![Image](missingimage.png)
+![Image](EarthAnalyzer.jpg)
 
 This project is related to the plant watering project because it is also used to test the soil condition exept on a larger and more involved and detailed scale. By being able to test a larger area with the technology set on wheels for use on large farm land and then send different alerts directly to your phone about the moisture level and soil condition.
 
@@ -24,7 +24,7 @@ Robotic Arm from Recycled Materials
 
 https://create.arduino.cc/projecthub/circuito-io-team/robotic-arm-from-recycled-materials-7e318a?ref=search&ref_id=robotic%20arm%20from%20recycled%20materials&offset=0
 
-![Image](missingimage.png)
+![Image](RobotArm.jpg)
 
 This project is related to mine because it uses a servo motor to make the robotic move. In the video displayed on the website it is shown making a cup of tea however with more refined controls and movements it could be used for a variety of things?????????????/.
 
@@ -33,7 +33,7 @@ Arduino Marble Maze Labyrinth
 
 https://create.arduino.cc/projecthub/AhmedAzouz/arduino-marble-maze-labyrinth-bd9ea6
 
-![Image](missingimage.png)
+![Image](MarbleMaze.jpg)
 
 This project is related to mine because it uses servo motors to manipulate direction of the maze to different angles, it is controlled by a modulo joystick to move the ball aroung the maze.  
 
@@ -42,7 +42,7 @@ Automatic Watering System for plants using Arduino
 
 https://www.youtube.com/watch?v=nUHizmtyt74
 
-![Image](missingimage.png)
+![Image](AutoWater.jpg)
 
 This project is related to mine because it is very similar in terms of the automating plant watering project except it uses a pump rather than the servo motor to water the plant. This might need more power however it would be more efficient for watering lager plants rather than the small amount from the straw.
 
@@ -51,7 +51,7 @@ Arduino Sunflower
 
 https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84
 
-![Image](missingimage.png)
+![Image](Sunflower.jpg)
 
 This project is related to mine because it uses the servo motor along with two photoresistors to turn the sunflower towards the light. This is a fairly simple project but displays the use of the servo motors in a easy to understand way.
 
