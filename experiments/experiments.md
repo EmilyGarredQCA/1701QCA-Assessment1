@@ -19,9 +19,9 @@ Using A Light Sensor And Analog Inputs
 
 #### Reflection ####
 
-In this experiment, something new to me was the use of the phototransistor to display the coresponding image of a sun (in light evvironments) and a moon (in dark environments). Something I learned while doing this experiment was that the light variable was set to 200 however this caused the LEDs to display the sun even if the phototransistor was fully covered, With trial and error I found the best number to be 500 that way covering the phototransistor made the moon show and leaving it un covered displayed the sun.
+In this experiment, something new to me was the use of the phototransistor to display the coresponding image of a sun (in light evvironments) and a moon (in dark environments). Something I learned while doing this experiment was that the light variable was set to 200 however this caused the LEDs to display the sun even if the phototransistor was fully covered, with trial and error I found the best number to be 500 that way covering the phototransistor made the moon show and leaving it uncovered displayed the sun.
 
-This experiment could be the basis of a real world application such as (using the phototransistor to turn on and off lights when it gets to night time without turning a switch on or off).
+This experiment could be the basis of a real world application such as (using the phototransistor to turn on and off lights when it gets to night time without having to physically turning a switch on or off. This could also be useful for people with disabilities or loss of mobility.).
 
 ### Experiment name ###
 
@@ -36,9 +36,9 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (adding an external switch and the potentiometer to adjust how bright the LED was ).
+In this experiment, something new to me was adding the external switch rather than using the A and B buttons built onto the micro bit. Also with the coding learning that all that is needed for the light to turn on and off is 0 and 1 rather than needing to know the valuse of brightness or howmany volt the LED would need which makes using LEDs much more simple. I also learned was how the potentiometer could dim and brighten the LED through the analog function in the micro bit?????????????????????????????????????????????????????.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as in houses to dim the lights or even in a car to dim the brightness of the dash board which in different circumstances can be quite bright.
 
 ### Experiment name ###
 
@@ -53,9 +53,9 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (was how the micro bit has the accelerometer included in it. It was good to learn how to use the elements included on the microbit to control something ).
+In this experiment, something new to me was how the micro bit had the accelerometer included in it and how it was able to tell what position it was in. I also learned how to use these kinds of elements included in the microbit to control something like the speed of the motor??????????????????????????????????????????????? ).
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as if a person with limited mobility who found it dificult to do simple things like pressing the switches on and off for lights, fans and electronics they could set the different actions readable to the microbit to these kinds of things they struggle with the most then rather than walking around to adust all these things they could somply move the microbit in whichever way they have it programed to??????????????????????????????////.
 
 ### Experiment name ###
 
@@ -70,9 +70,9 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was using the buzzer and the coding program to make tunes. As I play piano I tried writing some music on the buzzer and found that it will only play 1 note at a time meaning you cannot write anything with chords. Another problem I faced was that the sound couldn't be changed and it alwaysed sounded robotic. Despite this it was very simple to make up the circuitry and a fun little tune.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a customizable doorbell where you could very easily program any melody you want. It could also be a music player in a childrens toy or book.
 
 ### Experiment name ###
 
@@ -83,11 +83,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](EX8.jpg)
 
-(Insert a caption here)
+(This experiment used the compass feature built into the microbit to make a game.)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was that the micro bit had a compass feature in it and how you could set it to make an LED react to a random angle rather than having to input some kind of frequency option to a long list of different angles. Also with this experiment the coding was done with the Javascript rather than using the blocks, it was good to see how these two different inputs mached up and after a few lines became quite straight forward to what script matched with the coresponding block.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a game similar to pass the pasle by instead of using music as the cue to stop, the flashing light could indicate who won the round. Another use could be instead of going in order of person during a board game, the next person could be whoever the compass points to. 
 
