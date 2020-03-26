@@ -141,8 +141,8 @@ This is the basic code for the moisture sensor, it takes a reading of the electr
 
 ![Image](Nothing.jpg)
 
-![Video](testreading.mp4)
-
+https://www.youtube.com/embed/TMm6dON7O5Y
+This link shows the test reading for the moisture level with the nails on the ground.
 The base reading given is :317 showing a relatively low moisture level.
 
 ![Image](FullCode.JPG)
@@ -156,6 +156,12 @@ After uploading the code to the micro bit I found I had to adjust the starting a
 ![Video](SquareGlass.mp4)
 
 I decided to switch the glass to a square one to allow the adequate room for the straw to operate efficiently.
+
+image
+
+This demonstrates the profect working however I found that it is unnecessarily slow, I decided to change this and now it still works efficiently however it is much faster and will spent much less time watering the plant.
+
+image
 
 
 
@@ -183,11 +189,11 @@ I decided to switch the glass to a square one to allow the adequate room for the
 
 *Complete the following information.*
 
-### Project title ###
+### Plant Watering ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+*In a few sentences, describe what the project is and does, who it is for, and a typical use case.* This project is to create an easy and efficient way for people to water the plants. This automatic plant watering system would prove useful for people with a buisy schedule who maybe  
 
 ### Showcase image ###
 
