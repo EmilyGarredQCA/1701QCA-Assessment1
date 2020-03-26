@@ -135,7 +135,7 @@ This reading relates to my project because while this is a replication project, 
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](HalfCode.jpg)
+![Image](HalfCode.JPG)
 
 This is the basic code for the moisture sensor, it takes a reading of the electric current from moisture in the environment around it then gives a visual reading on the LED display. A low moisture reading will show he bottom five LEDs lit up and a high reading will show all the LEDs lit up, furthermore adding the coding to give a number reading of the measurement on the A button will give a more accurate reading.
 
@@ -145,7 +145,7 @@ This is the basic code for the moisture sensor, it takes a reading of the electr
 
 The base reading given is :317 showing a relatively low moisture level.
 
-![Image](FullCode.jpg)
+![Image](FullCode.JPG)
 
 In the case of this project the electronics will be hooked up to a plant to water it when the moisture level gets below a certain level. The code above adds the function of watering the plant with the assistance of a servo motor. This process takes the reading from the moisture level and if it is below the set level of 500 it will display an image of an umbrella to tell the micro bit that it needs to be watered then cause the servo motor to operate. The servo motor is a small motor designed to be programed to a set angle.  It is attached over a water source (a glass) by attaching it to a stick with rubberbands. The water is moved with the aid of a flexible straw that has been cut to allow the water to easily enter the tube when it is turned up before being tipped into the plant.
 
