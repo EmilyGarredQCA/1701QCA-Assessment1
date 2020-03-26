@@ -121,6 +121,12 @@ This reading relates to my project because while this is a replication project, 
 
 ![Image](missingimage.png)
 
+
+
+
+
+
+
 ## Process documentation
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
@@ -129,9 +135,49 @@ This reading relates to my project because while this is a replication project, 
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+![Image](HalfCode.jpg)
+
+This is the basic code for the moisture sensor, it takes a reading of the electric current from moisture in the environment around it then gives a visual reading on the LED display. A low moisture reading will show he bottom five LEDs lit up and a high reading will show all the LEDs lit up, furthermore adding the coding to give a number reading of the measurement on the A button will give a more accurate reading.
+
+![Image](Nothing.jpg)
+
+![Image](testreading.jpg)
+
+The base reading given is :317 showing a relatively low moisture level.
+
+![Image](FullCode.jpg)
+
+In the case of this project the electronics will be hooked up to a plant to water it when the moisture level gets below a certain level. The code above adds the function of watering the plant with the assistance of a servo motor. This process takes the reading from the moisture level and if it is below the set level of 500 it will display an image of an umbrella to tell the micro bit that it needs to be watered then cause the servo motor to operate. The servo motor is a small motor designed to be programed to a set angle.  It is attached over a water source (a glass) by attaching it to a stick with rubberbands. The water is moved with the aid of a flexible straw that has been cut to allow the water to easily enter the tube when it is turned up before being tipped into the plant.
+
+![Image](CircleGlass.jpg)
+
+After uploading the code to the micro bit I found I had to adjust the starting angle of the arm of the servo motor holding the straw so that it scoops the water up and tips it into the plant. My initial tests were using the motor and straw on a round glass however the shape of the glass gave limited space and caused the straw to get stuck on the rim.
+
+![Image](SquareGlass.jpg)
+
+I decided to switch the glass to a square one to allow the adequate room for the straw to operate efficiently.
+
+
 
 *Include screenshots of the code you have used.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Project outcome ##
 
