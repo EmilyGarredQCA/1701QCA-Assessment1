@@ -94,12 +94,6 @@ This reading relates to my project because while this is a replication project, 
 
 ![Image](missingimage.png)
 
-
-
-
-
-
-
 ## Process documentation
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
@@ -115,7 +109,9 @@ This is the basic code for the moisture sensor, it takes a reading of the electr
 ![Image](Nothing.jpg)
 
 ![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/TMm6dON7O5Y/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDJ-u-QKVD-d4cgc4cCFCOBF-jI5w)
+
 https://www.youtube.com/embed/TMm6dON7O5Y
+
 This link shows the test reading for the moisture level with the nails on the ground.
 The base reading given is :317 showing a relatively low moisture level.
 
@@ -160,23 +156,6 @@ The link shows the final reading of the plant watering project after it reached 
 *Include screenshots of the code you have used.*
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Project outcome ##
 
 *Complete the following information.*
@@ -210,4 +189,5 @@ The link shows the final reading of the plant watering project after it reached 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?* An interesting extention of this project would be if it could be linked to a program that monitors and records the water requirments of plants. This could aid in the care and maintenance of garden beds and pot plants in a water efficient way. Furthermore if it could be scaled up to monitor a whole garden or field it could provide prevent over/underwatering thereby saving water promoting healthier growth. 
+*What might be an interesting extension of this project? In what other contexts might this project be used?* An interesting extention of this project would be if it could be linked to a program that monitors and records the water requirments of plants. This could aid in the care and maintenance of garden beds and pot plants in a water efficient way. Furthermore if it could be scaled up to monitor a whole garden or field it could provide prevent over/underwatering thereby saving water promoting healthier growth. With the Earth Analyzer and the Robitic arm I considered a possible alteration of this project being on wheels and have the testing nails on a robotic arm, it could potentially drive backwards and forwards and water a line of pot plants rather than just one.  Another alteration with only the robotic arm and a way to rotate the project (another motor) required could be to set the electronics in the middle of some pland that it would then turn and water a number of them rather than one, having this set up would also hide the project from view. 
+
