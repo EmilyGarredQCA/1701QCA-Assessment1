@@ -17,7 +17,7 @@ https://create.arduino.cc/projecthub/gowthamkishoreindukuri/earth-analyzer-262ac
 
 ![Image](EarthAnalyzer.jpg)
 
-This project is related to the plant watering project because it is also used to test the soil condition exept on a larger and more involved and detailed scale. By being able to test a larger area with the technology set on wheels for use on large farm land and then send different alerts directly to your phone about the moisture level and soil condition.
+This project is related to the plant watering project because it is also used to test the soil condition exept on a larger and more involved and detailed scale. By being able to test a larger area with the technology set on wheels for use on large farm land and then send different alerts directly to your phone about the moisture level and soil condition, gives the ability to monitor the land without walking the entire distance.
 
 ### Related project 2 ###
 Robotic Arm from Recycled Materials
@@ -26,7 +26,7 @@ https://create.arduino.cc/projecthub/circuito-io-team/robotic-arm-from-recycled-
 
 ![Image](RobotArm.jpg)
 
-This project is related to mine because it uses a servo motor to make the robotic move. In the video displayed on the website it is shown making a cup of tea however with more refined controls and movements it could be used for a variety of things?????????????/.
+This project is related to mine because it uses a servo motor to make the robotic arm move. In the video displayed on the website it is shown making a cup of tea however with more refined controls and movements it could be used for a variety of things. Such as a toy for children as a small crane or at an industrial level it could move things around in a work place.
 
 ### Related project 3 ###
 Arduino Marble Maze Labyrinth
@@ -35,7 +35,7 @@ https://create.arduino.cc/projecthub/AhmedAzouz/arduino-marble-maze-labyrinth-bd
 
 ![Image](MarbleMaze.jpg)
 
-This project is related to mine because it uses servo motors to manipulate direction of the maze to different angles, it is controlled by a modulo joystick to move the ball aroung the maze.  
+This project is related to mine because it uses servo motors to manipulate direction of the maze to different angles, it is controlled by a modulo joystick to tilt the maze to make the ball travel around the maze.  
 
 ### Related project 4 ###
 Automatic Watering System for plants using Arduino
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=nUHizmtyt74
 
 ![Image](AutomaticWater.jpg)
 
-This project is related to mine because it is very similar in terms of the automating plant watering project except it uses a pump rather than the servo motor to water the plant. This might need more power however it would be more efficient for watering lager plants rather than the small amount from the straw.
+This project is related to mine because it is very similar in terms of the automating plant watering project except it uses a pump rather than the servo motor to water the plant. This might need more power however it would be more efficient for watering larger plants rather than the small amount delivered from a straw.
 
 ### Related project 5 ###
 Arduino Sunflower
@@ -58,61 +58,34 @@ This project is related to mine because it uses the servo motor along with two p
 
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading the chapter in "The Design of Everyday Things" I had never really given much thought to the design of how things work. If I had an appliance that I didnt know how to use I would try pressing random buttons or just read the instruction manual. The reading challenged this thought by proving that concepts like affordances, signifiers, mapping, feed back and conceptual models all play a vital roll in makng these interactions run smoothly.
 
-Before reading the chapter in the design of everyday things I had never really given much thought to the design of how things work. If I had an appliance that I didnt know how to use I would try pressing random buttons or just read the instruction manual. The reading challenged this thought by proving that concepts like Affordances, signifiers, mapping, feed back and conceptual models all play a roll in makng these interactions run smoothly.
+Furthermore, I learnt how much carefull consideration needs to go into the development of everyday things to make them as comfortable to use and as user friendly as possible. In contrast if something is unclear in how its used people will very easily get frustrated with it and buy a different option.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I would like to know if there are any groups that specialize in giving or gaining feedback and direction towards the best design of something or if it is just up to the creators own trial and error to discover any faults that an invention might have.
 
-I learnt how much carfull consideration needs to go into the development of everyday things to make it as comfortable to use and as user friendly as possible because if something is unclear in how its used people will very easily get frustrated and buy a different option.
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-I would like to know if there are any groups that specialize in giving or gaining feedback and direction towards the best design of somthing or if it is just up to the creators own trial and error to discover any faults that an invention might have.
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-The concepts mentioned in this chapter relates to the project I am doing with the consideration of clear signifiers. With the plant watering system there is the option to get an accurate number reading of the moisture content by pressing the A button, however there is no signifier directing someone to do so; without any direct instructon no one would know it was an option.
+The concepts mentioned in this chapter relates to the project I am doing with the consideration of clear signifiers. With the plant watering system there is the option to get an accurate number reading of the moisture content by pressing the A button, however there is no signifier directing someone to do so, therefore without any direct instructon no one would know it was an option.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading this chapter about microinteractions I had no idea that these small components of technology make up such a large portion of everyday life. Having an app for playing music seems like such an effortless thing however it would be very troublesome if the volume could not be changed.  This alone isn't that significant however, like the example in the chapter with the alarm going off, there are some occasions where these microinteractions are vital to be correct and easy to use and understand.
 
-Before reading this chapter about microinteractions I had no idea that these small components of technology make up such a large portion of everyday life. Having a app for playing music seems like such an effortless thing however it would be very troublesome if the volume could not be changed.  This alone isnt that significant however like the example in the chapter with the alarm going off there are some occations where these micro interactions are vital to be correct and easy to use and understand.
+I learned from this chapter how important these small effortless additions to technology are and how much of a difference they make in the overall usefulness of the object and how many microinteractions can be included in one piece of technology. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+It would be interesting to know how to decide what kinds if microinteractions would be necessary for making a new piece of technology and what options are available to a designer.
 
-I learned from this chapter how important these small effortless additions to technology are and how much of a difference they make in the overall usefulness of the object and how many micro interactions can be included in one piece of technology. 
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-It would be interesting to know how to decide what kinds if micro interactions would be necessary for making a new piece of technology and what options are available to a designer.
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
-There is not a lot of ineraction in the automatic plant watering project so it would be interesting to know how these could improve it as a whole.  I think that if this was scaled up to a more interactive and professional style device, the posibility of including more microinteraction in the project would be great.
+There is not a lot of ineraction in the automatic plant watering project so it would be interesting to know how these could improve it as a whole.  I think that if this was scaled up to a more interactive and professional style device, the posibility of including more microinteractions in the project would be great such as keeping a record of daily/weekly measurements and water consumption.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading this I thought that coding and creating useful pieces of technology would be difficult and confusing however in this reading the author clearly sates that he had no prior knowledge of coding.  Despite this,  half way throught the chapter, when the project was only really in a testing phase, the shop owners had already discovered problems in the layout of their shop.  The author learnt the basics of coding through copying and modifying Arduino projects, which were similar to what he was looking to do.  He then adapted the code through further research and trial and error.  
 
-Before reading this I thought that coding and creating useful pieces of technology would be difficult and confusing however in this reading the author clearly sates that he had no prior knowledge of coding, However half way throught the chapter, when the project was only really in a testing phase, the shop owners had already discovered problems in the layout of their shop.  The author learnt the basics through Arduino projects, which were similar to what he was looking to do, and then adapted the code through further research and trial and error.  
-
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
-The author clearly demonstrated that the process of making something usefull doesnt have to be difficult, especialy with reasorces like the internet where if a problem arises a simple search can explain whats going wrong or what could be more effective.  I learnt that i can create a project using these kinds of components without the need to study coding or electronics.
-
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+The author clearly demonstrated that the process of making something usefull doesn't have to be difficult, especialy with reasorces like the internet where if a problem arises a simple search can explain whats going wrong or what could be more effective.  I learnt that a project can be created using these kinds of components without the need to study coding or electronics.
 
 It would be good to know in more detail how this technology could be used to help shops improve or if it could be used more efficiently in other places and situations.
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
 This reading relates to my project because while this is a replication project, it demonstrates the same trial and error and problem solving which is needed to overcome any problems, should they arise, and gives me the confidence to look online for solutions. Furthermore it proves that you need no previous experience to be able to use this kind of technology.
 
@@ -195,13 +168,13 @@ The link shows the final reading of the plant watering project after it reached 
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.* This project is to create an easy and efficient way for people to water the plants. This automatic plant watering system would prove useful for people with a buisy schedule who maybe  
+*In a few sentences, describe what the project is and does, who it is for, and a typical use case.* This project is to create an easy and efficient way for people to know when to water their plants by monitoring moisture levels in the soil. This automatic plant watering system would prove useful for people with a busy schedule who may forget or for people with disibilites who maybe don't have the physical capability to water a plant.
 
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](ProfPhoto.png)
+![Image](ProfPhoto.jpg)
 
 ### Additional view ###
 
@@ -211,13 +184,13 @@ The link shows the final reading of the plant watering project after it reached 
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*I found the coding and building of the project simple and straight forward, and was happy with the overall result. I did however have problems with the power suply to the servo motor where if it wasn't plugged into both the battery pack and my laptop it would fail to run any angles above 60 degrees.  Another problem was how little water the device gave the plant each time it tipped. It would be much more efficient if instead of a straw we used a larger funnel type scoop.
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?* I found that the Earth Analyzer and the Automatic Watering System were using specific moisture detecting device in place of the nails. I considered using one of these as well but found as the nails worked fine I didnt want to buy something that overall was unnecessary. These projects also make it clear that this application would work as it is intended to.
 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+*What might be an interesting extension of this project? In what other contexts might this project be used?* An interesting extention of this project would be if it could be linked to a program that monitors and records the water requirments of plants. This could aid in the care and maintenance of garden beds and pot plants in a water efficient way. Furthermore if it could be scaled up to monitor a whole garden or field it could provide prevent over/underwatering thereby saving water promoting healthier growth. 
