@@ -149,20 +149,22 @@ The base reading given is :317 showing a relatively low moisture level.
 
 In the case of this project the electronics will be hooked up to a plant to water it when the moisture level gets below a certain level. The code above adds the function of watering the plant with the assistance of a servo motor. This process takes the reading from the moisture level and if it is below the set level of 500 it will display an image of an umbrella to tell the micro bit that it needs to be watered then cause the servo motor to operate. The servo motor is a small motor designed to be programed to a set angle.  It is attached over a water source (a glass) by attaching it to a stick with rubberbands. The water is moved with the aid of a flexible straw that has been cut to allow the water to easily enter the tube when it is turned up before being tipped into the plant.
 
-![Video](CircleGlass.mp4)
+https://youtu.be/UT2JdFeszeg
+The link above shows how the straw was satching on the rim of the glass.
 
 After uploading the code to the micro bit I found I had to adjust the starting angle of the arm of the servo motor holding the straw so that it scoops the water up and tips it into the plant. My initial tests were using the motor and straw on a round glass however the shape of the glass gave limited space and caused the straw to get stuck on the rim.
 
-![Video](SquareGlass.mp4)
-
+https://www.youtube.com/watch?v=zgkEI8n5Qdc
+The video above show the straw not getting caught on the rim.
 I decided to switch the glass to a square one to allow the adequate room for the straw to operate efficiently.
 
-image
+https://youtu.be/8R_cq-f_MK8
+This demonstrates the project working however I found that it is unnecessarily slow, I decided to change this and now it still works efficiently however it is much faster and will spent much less time watering the plant.
 
-This demonstrates the profect working however I found that it is unnecessarily slow, I decided to change this and now it still works efficiently however it is much faster and will spent much less time watering the plant.
-
-image
-
+https://youtu.be/OqX12lhKVgA
+This video demonstrates the project sucessfuly watering the plant and stopping when the moisture level is high enough.
+https://youtu.be/9FmYNfNY0zo
+The link shows the final reading of the plant watering project after it reached the level chosen to tell it to stop watering the plant. 
 
 
 *Include screenshots of the code you have used.*
@@ -199,7 +201,7 @@ image
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](ProfPhoto.png)
 
 ### Additional view ###
 
