@@ -66,32 +66,55 @@ This project is related to mine because it uses the servo motor along with two p
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Before reading the chapter in the design of everyday things I had never really given much thought to the design of how things work. If I had an appliance that I didnt know how to use I would try pressing random buttons or just read the instruction manual. The reading challenged this thought by proving that concepts like Affordances, signifiers, mapping, feed back and conceptual models all play a roll in makng these interactions run smoothly.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+I learnt how much carfull consideration needs to go into the development of everyday things to make it as comfortable to use and as user friendly as possible because if something is unclear in how its used people will very easily get frustrated and buy a different option.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+I would like to know if there are any groups that specialize in giving or gaining feedback and direction towards the best design of somthing or if it is just up to the creators own trial and error to discover any faults that an invention might have.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+The concepts mentioned in this chapter relates to the project I am doing with the consideration of clear signifiers. With the plant watering system there is the option to get an accurate number reading of the moisture content by pressing the A button, however there is no signifier directing someone to do so; without any direct instructon no one would know it was an option.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Before reading this chapter about microinteractions I had no idea that these small components of technology make up such a large portion of everyday life. Having a app for playing music seems like such an effortless thing however it would be very troublesome if the volume could not be changed.  This alone isnt that significant however like the example in the chapter with the alarm going off there are some occations where these micro interactions are vital to be correct and easy to use and understand.
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+I learned from this chapter how important these small effortless additions to technology are and how much of a difference they make in the overall usefulness of the object and how many micro interactions can be included in one piece of technology. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+It would be interesting to know how to decide what kinds if micro interactions would be necessary for making a new piece of technology and what options are available to a designer.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+
+There is not a lot of ineraction in the automatic plant watering project so it would be interesting to know how these could improve it as a whole.  I think that if this was scaled up to a more interactive and professional style device, the posibility of including more microinteraction in the project would be great.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+Before reading this I thought that coding and creating useful pieces of technology would be difficult and confusing however in this reading the author clearly sates that he had no prior knowledge of coding, However half way throught the chapter, when the project was only really in a testing phase, the shop owners had already discovered problems in the layout of their shop.  The author learnt the basics through Arduino projects, which were similar to what he was looking to do, and then adapted the code through further research and trial and error.  
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+
+The author clearly demonstrated that the process of making something usefull doesnt have to be difficult, especialy with reasorces like the internet where if a problem arises a simple search can explain whats going wrong or what could be more effective.  I learnt that i can create a project using these kinds of components without the need to study coding or electronics.
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
+It would be good to know in more detail how this technology could be used to help shops improve or if it could be used more efficiently in other places and situations.
+
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
+This reading relates to my project because while this is a replication project, it demonstrates the same trial and error and problem solving which is needed to overcome any problems, should they arise, and gives me the confidence to look online for solutions. Furthermore it proves that you need no previous experience to be able to use this kind of technology.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
