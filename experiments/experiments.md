@@ -1,17 +1,10 @@
 # Inventor Kit Experiments
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
 ### Experiment name ###
 
 Using A Light Sensor And Analog Inputs
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](EX2.jpg)
 
@@ -28,7 +21,6 @@ This experiment could be the basis of a real world application such as (using th
 Dimming An LED Using A Potentiometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](EX3.jpg)
 
@@ -36,7 +28,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was adding the external switch rather than using the A and B buttons built onto the micro bit. Also with the coding learning that all that is needed for the light to turn on and off is 0 and 1 rather than needing to know the valuse of brightness or howmany volt the LED would need which makes using LEDs much more simple. I also learned was how the potentiometer could dim and brighten the LED through the analog function in the micro bit?????????????????????????????????????????????????????.
+In this experiment, something new to me was adding the external switch rather than using the A and B buttons built onto the micro bit. Also with the coding learning that all that is needed for the light to turn on and off is 0 and 1 rather than needing to know the value of brightness or how many volts the LED would need which makes using LEDs much more simple. I also learned how the potentiometer could dim and brighten the LED through the analog function in the micro bit.
 
 This experiment could be the basis of a real world application such as in houses to dim the lights or even in a car to dim the brightness of the dash board which in different circumstances can be quite bright.
 
@@ -45,7 +37,6 @@ This experiment could be the basis of a real world application such as in houses
 Using The Accelerometer To Control Motor Speed
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](EX5.jpg)
 
@@ -53,20 +44,19 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was how the micro bit had the accelerometer included in it and how it was able to tell what position it was in. I also learned how to use these kinds of elements included in the microbit to control something like the speed of the motor??????????????????????????????????????????????? ).
+In this experiment, something new to me was how the micro bit had the accelerometer included in it and how it was able to tell what position it was in. I also learned how to use these kinds of elements included in the microbit to control something like the speed of the motor.
 
-This experiment could be the basis of a real world application such as if a person with limited mobility who found it dificult to do simple things like pressing the switches on and off for lights, fans and electronics they could set the different actions readable to the microbit to these kinds of things they struggle with the most then rather than walking around to adust all these things they could somply move the microbit in whichever way they have it programed to??????????????????????????????////.
+This experiment could be the basis of a real world application such as for a person with limited mobility who found it dificult to do simple things like pressing the switches on and off for lights, fans and electronics they could set the different actions readable to the microbit to the tasks they struggle with the most, then rather than moving around to adust all these things they could simply move the microbit in whichever way they have it programed.
 
 ### Experiment name ###
 
 Setting The Tone With A Piezo Buzzer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](EX6.jpg)
 
-(Insert a caption here)
+(Using the buzzer to make music.)
 
 #### Reflection ####
 
@@ -79,7 +69,6 @@ This experiment could be the basis of a real world application such as a customi
 Making A Game Using The Compass
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](EX8.jpg)
 
