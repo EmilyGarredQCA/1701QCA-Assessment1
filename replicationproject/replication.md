@@ -1,14 +1,9 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
-
 ## Replication project choice ##
 Plant Watering
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Earth Analyzer
@@ -56,7 +51,6 @@ https://create.arduino.cc/projecthub/Rick_Findus/arduino-sunflower-c4fd84
 This project is related to mine because it uses the servo motor along with two photoresistors to turn the sunflower towards the light. This is a fairly simple project but displays the use of the servo motors in a easy to understand way.
 
 
-
 ## Reading reflections ##
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
@@ -90,17 +84,11 @@ It would be good to know in more detail how this technology could be used to hel
 This reading relates to my project because while this is a replication project, it demonstrates the same trial and error and problem solving which is needed to overcome any problems, should they arise, and gives me the confidence to look online for solutions. Furthermore it proves that you need no previous experience to be able to use this kind of technology.
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](FlowChart.jpg)
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 ![Image](HalfCode.JPG)
 
@@ -153,41 +141,40 @@ https://youtu.be/9FmYNfNY0zo
 The link shows the final reading of the plant watering project after it reached the level chosen to tell it to stop watering the plant. 
 
 
-*Include screenshots of the code you have used.*
-
-
 ## Project outcome ##
-
-*Complete the following information.*
 
 ### Plant Watering ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.* This project is to create an easy and efficient way for people to know when to water their plants by monitoring moisture levels in the soil. This automatic plant watering system would prove useful for people with a busy schedule who may forget or for people with disibilites who maybe don't have the physical capability to water a plant.
+This project is to create an easy and efficient way for people to know when to water their plants by monitoring moisture levels in the soil. This automatic plant watering system would prove useful for people with a busy schedule who may forget or for people with disibilites who maybe don't have the physical capability to water a plant.
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](ProfPhoto.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
 ![Image](AlsoAdditional.jpg)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*I found the coding and building of the project simple and straight forward, and was happy with the overall result. I did however have problems with the power suply to the servo motor where if it wasn't plugged into both the battery pack and my laptop it would fail to run any angles above 60 degrees.  Another problem was how little water the device gave the plant each time it tipped. It would be much more efficient if instead of a straw we used a larger funnel type scoop.
+I found the coding and building of the project simple and straight forward, and was happy with the overall result. I did however have problems with the power suply to the servo motor where if it wasn't plugged into both the battery pack and my laptop it would fail to run any angles above 60 degrees.  Another problem was how little water the device gave the plant each time it tipped. It would be much more efficient if instead of a straw we used a larger funnel type scoop.
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?* I found that the Earth Analyzer and the Automatic Watering System were using specific moisture detecting device in place of the nails. I considered using one of these as well but found as the nails worked fine I didnt want to buy something that overall was unnecessary. These projects also make it clear that this application would work as it is intended to.
+I found that the Earth Analyzer and the Automatic Watering System were using specific moisture detecting device in place of the nails. I considered using one of these as well but found as the nails worked fine I didnt want to buy something that overall was unnecessary. These projects also make it clear that this application would work as it is intended to.
 
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+
+I started out reading the microbit website (https://microbit.org/get-started/user-guide/overview/) to help me understand the possibilities and limitations of this device. It gave me a good overall understanding of how this technology is used and helped to reinforce some of the notes or ideas mentioned in class.
+
+The page on Science Buddies about Green Technology (https://www.sciencebuddies.org/science-fair-projects/project-ideas/Elec_p066/electricity-electronics/build-an-electronic-soil-moisture-sensor-to-conserve-water) talks about how this kind of devise can be of benefit on a broader scale than one pot plant. It brings light to how we must conserve water and gives the example of a farmer watering a field of crops after it has just rained. This was a higher powered project that did not use a microbit however was a similar setup to the moisture detection part of the project furthermore this device does not water plants only test the soils moisture leves.
+
+Next I found a page on Science Scope (https://sciencescope.uk/product/microbit-plant-watering-system/) which used a microbit in a plant watering system however this used a small water pump which in contrast to my plant watering project had the ability to deliver more water in a faster method rather than in multiple small amounts. It also used similar coding to the project I am replicating.
+
+Finaly on the microbit website I found the video in which the building process of my project was demonstrated (https://makecode.microbit.org/projects/plant-watering/make). This showed the setup of the project which was useful but I found that running the rubber band under the bottom of the glass was more secure than taping it to the side.
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?* An interesting extention of this project would be if it could be linked to a program that monitors and records the water requirments of plants. This could aid in the care and maintenance of garden beds and pot plants in a water efficient way. Furthermore if it could be scaled up to monitor a whole garden or field it could provide prevent over/underwatering thereby saving water promoting healthier growth. With the Earth Analyzer and the Robitic arm I considered a possible alteration of this project being on wheels and have the testing nails on a robotic arm, it could potentially drive backwards and forwards and water a line of pot plants rather than just one.  Another alteration with only the robotic arm and a way to rotate the project (another motor) required could be to set the electronics in the middle of some pland that it would then turn and water a number of them rather than one, having this set up would also hide the project from view. 
+
+An interesting extention of this project would be if it could be linked to a program that monitors and records the water requirments of plants. This could aid in the care and maintenance of garden beds and pot plants in a water efficient way. Furthermore if it could be scaled up to monitor a whole garden or field it could provide prevent over/underwatering thereby saving water promoting healthier growth. With the Earth Analyzer and the Robitic arm I considered a possible alteration of this project being on wheels and have the testing nails on a robotic arm, it could potentially drive backwards and forwards and water a line of pot plants rather than just one.  Another alteration with only the robotic arm and a way to rotate the project (another motor) required could be to set the electronics in the middle of some pland that it would then turn and water a number of them rather than one, having this set up would also hide the project from view. 
 
