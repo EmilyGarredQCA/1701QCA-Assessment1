@@ -147,7 +147,7 @@ The link shows the final reading of the plant watering project after it reached 
 
 ### Project description ###
 
-This project is to create an easy and efficient way for people to know when to water their plants by monitoring moisture levels in the soil. This automatic plant watering system would prove useful for people with a busy schedule who may forget or for people with disibilites who maybe don't have the physical capability to water a plant.
+This project is designed to create an easy and efficient way for people to know when to water their plants by monitoring moisture levels in the soil. This automatic plant watering system would prove useful for people with a busy schedule who may forget or for people with disibilites who maybe don't have the physical capability to water a plant.
 
 ### Showcase image ###
 
