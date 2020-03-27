@@ -76,7 +76,7 @@ Making A Game Using The Compass
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was that the micro bit had a compass feature in it and how you could set it to make an LED react to a random angle rather than having to input some kind of frequency option to a long list of different angles. Also with this experiment the coding was done with the Javascript rather than using the blocks, it was good to see how these two different inputs mached up and after a few lines became quite straight forward to what script matched with the coresponding block.
+In this experiment, something I learned was that the micro bit had a compass feature in it and how you could set it to make an LED react to a random angle rather than having to input some kind of frequency option to a long list of different angles. Also with this experiment the coding was done with the Javascript rather than using the blocks, it was good to see how these two different inputs mached up and after a few lines became quite straight forward to what script matched with the coresponding block.
 
-This experiment could be the basis of a real world application such as a game similar to pass the pasle by instead of using music as the cue to stop, the flashing light could indicate who won the round. Another use could be instead of going in order of person during a board game, the next person could be whoever the compass points to. 
+This experiment could be the basis of a real world application such as a game similar to pass-the-parcel but instead of using music as the cue to stop, the flashing light could indicate who won the round. Another use could be instead of going in order of person during a board game, the next person could be whoever the compass points to. 
 
